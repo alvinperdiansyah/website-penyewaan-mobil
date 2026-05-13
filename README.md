@@ -1,5 +1,9 @@
 # 📱 Sistem Booking Sewa Mobil (RentalMobil)
 
+dibuat oleh:
+1.Alvin perdiansyah dwi putra (2488010019)
+2.abdullah assegaf (2488010076)
+
 ## 📌 Deskripsi Umum
 
 **RentalMobil** merupakan sistem informasi berbasis web yang dirancang untuk mempermudah proses penyewaan mobil secara online. Sistem ini menghubungkan calon penyewa *(user)* dengan pengelola rental *(admin)* secara terintegrasi sehingga proses booking menjadi lebih cepat, praktis, dan efisien.

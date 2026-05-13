@@ -1,6 +1,6 @@
 # 📱 Sistem Booking Sewa Mobil (RentalMobil)
 
-#dibuat oleh:
+di buat oleh:
 # 1.Alvin perdiansyah dwi putra (2488010019)
 # 2.abdullah assegaf (2488010076)
 
